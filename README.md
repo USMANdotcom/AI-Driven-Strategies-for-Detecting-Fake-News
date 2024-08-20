@@ -60,7 +60,7 @@ I welcome contributions from fellow developers. If you have ideas for new featur
 
 ## Contact
 
-If you have any questions or suggestions, feel free to reach out to me at [ukhanusman10.com](ukhanusman10@gmail.com).
+If you have any questions or suggestions, feel free to reach out to me at [ukhanusman10@gmail.com](ukhanusman10@gmail.com).
 
 Thank you for considering contributing to the Fake News Detector project. Together, we can make a positive impact on the fight against misinformation.
 
